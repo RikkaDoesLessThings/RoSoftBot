@@ -18,8 +18,6 @@
 | **White Flag** | Verbal warning | 3 in 24 hours = 1 Red Flag. Clears after 7 days. |
 | **Red Flag** | Formal strike | 3 strikes = Timeout. <br> 4 strikes = Temporary Termination (30 days). <br> 5 strikes = Permanent Ban. |
 
----
-
 ## 🎛️ Panels Overview
 
 | Panel | Permissions |
@@ -27,8 +25,6 @@
 | **ModPan (Moderator Panel)** | Manage members (warn, mute, strike). <br> Access logs & member history. |
 | **AdminPan (Administrator Panel)** | Moderate members & moderators (warn, mute, strike, kick, ban). <br> View all logs and history for members and moderators. |
 | **MgtPan (Management Panel)** | Full disciplinary control over members, moderators, and admins. <br> Unified log and record management. |
-
----
 
 ## 🛡️ Verification System
 
@@ -44,21 +40,16 @@ When a new user joins:
      - <@&1359399912512557319> (Roblox Verified)
      - <@&1359399913208811590> (Discord Verified)
 
----
-
 ## ✉️ Server Bot Embed
 > <@1359723981384712232>  
 > **Welcome to RoSoft Entertainment ©️**  
 > *To gain access to the server, please verify your Roblox and Discord accounts by clicking the green check button below. If you encounter any issues, click the yellow button for staff assistance via DM.*
 
 ---
----
 
 # 🔧 Planned Edits
 
 *(Section reserved for any future changes.)*
-
----
 
 ## 🛠️ Features (Done & To Do)
 
