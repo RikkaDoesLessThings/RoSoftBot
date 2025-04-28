@@ -22,7 +22,7 @@
 
 | Panel | Permissions |
 |:------|:------------|
-| **ModPan (Moderator Panel)** | Manage members (warn, mute, strike). <br> Access logs & member history. |
+| ~~**ModPan (Moderator Panel)**~~ | Manage members (warn, mute, strike). <br> Access logs & member history. |
 | **AdminPan (Administrator Panel)** | Moderate members & moderators (warn, mute, strike, kick, ban). <br> View all logs and history for members and moderators. |
 | **MgtPan (Management Panel)** | Full disciplinary control over members, moderators, and admins. <br> Unified log and record management. |
 
