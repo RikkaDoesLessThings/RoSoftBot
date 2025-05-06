@@ -29,10 +29,10 @@
 ## 🛡️ Verification System
 
 When a new user joins:
-1. Click the **green button** to initiate verification.
-2. The bot DMs the user with two **grey buttons**:
-   - Click the **Roblox logo** to verify your Roblox account.
-   - Click the **Discord logo** to verify your Discord account.
+1. ~~Click the **green button** to initiate verification.~~
+2. ~~The bot DMs the user with two **grey buttons**:~~
+   - ~~Click the **Roblox logo** to verify your Roblox account.~~
+   - ~~Click the **Discord logo** to verify your Discord account.~~
 3. Upon successful verification:
    - Username updates to match Roblox username.
    - User receives three roles:
@@ -41,9 +41,9 @@ When a new user joins:
      - <@&1359399913208811590> (Discord Verified)
 
 ## ✉️ Server Bot Embed
-> <@1359723981384712232>  
+> ~~<@1359723981384712232>  
 > **Welcome to RoSoft Entertainment ©️**  
-> *To gain access to the server, please verify your Roblox and Discord accounts by clicking the green check button below. If you encounter any issues, click the yellow button for staff assistance via DM.*
+> *To gain access to the server, please verify your Roblox and Discord accounts by clicking the green check button below. If you encounter any issues, click the yellow button for staff assistance via DM.*~~
 
 ---
 
