@@ -34,11 +34,11 @@ When a new user joins:
    - ~~Click the **Roblox logo** to verify your Roblox account.~~
    - ~~Click the **Discord logo** to verify your Discord account.~~
 3. Upon successful verification:
-   - Username updates to match Roblox username.
-   - User receives three roles:
-     - <@&1359399857306996859> (Member)
-     - <@&1359399912512557319> (Roblox Verified)
-     - <@&1359399913208811590> (Discord Verified)
+   - ~~Username updates to match Roblox username.~~
+   - ~~User receives three roles:~~
+     - ~~<@&1359399857306996859> (Member)~~
+     - ~~<@&1359399912512557319> (Roblox Verified)~~
+     - ~~<@&1359399913208811590> (Discord Verified)~~
 
 ## ✉️ Server Bot Embed
 > ~~<@1359723981384712232>  
