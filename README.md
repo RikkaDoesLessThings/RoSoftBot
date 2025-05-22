@@ -7,7 +7,7 @@
 | ~~**Account Creation/Management**~~ | ~~Users create and manage their RoSoft account through DMs after joining. They connect their Roblox account for server access and can customize their account as they earn points.~~ |
 | **Moderation, Administration, Management Panels** | Staff can access control panels (~~`!ModPan`~~, `!AdminPan`, `!MgtPan`) via commands. Panels open privately, allowing efficient moderation without cluttering channels. |
 | **Logging and Punishment System** | Staff actions and punishments are logged into genre-specific channels. Punishments operate on a severity system (White Flag, Red Flag, Account Deletion). |
-| **Community Tools** | Community members can use features like support tickets, ~~friend other users~~, and choose roles via the bot. |
+| **Community Tools** | Community members can use features like support tickets, friend other users, and choose roles via the bot. |
 
 ---
 
@@ -53,7 +53,7 @@ When a new user joins:
 
 ## 🛠️ Features (Done & To Do)
 
-- [ ] Support tickets
+- [x] Support tickets
 - [x] Creating suggestions
 - [x] Checking account status / Viewing others' accounts
 - [x] Friending RoSoft accounts
